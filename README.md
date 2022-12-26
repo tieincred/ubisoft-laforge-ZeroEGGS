@@ -76,6 +76,7 @@ The following styles are present in the ZEGGS dataset:
 > This repository contains large files. In order to clone this repository including
 > the the large zip files, you need to use [git lfs](https://github.com/git-lfs/git-lfs/wiki/Installation).
 > If you still get errors, directly download `zip` files.
+> `zip` files, exceed lfs limit too, I have uploaded on [gdrive](https://drive.google.com/file/d/1Q66HGbSVJ6GBASMTTFeISe-vCl5z1m7d/view)
 
 The speech and gesture data are contained in the `./data/Zeggs_data.zip`, `./data/Zeggs_data.z01`, and `./data/Zeggs_data.z02` files. You must put all of these parts to the same folder, and extract `.zip` file by WinRAR or Winzip.
 
